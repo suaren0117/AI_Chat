@@ -1,0 +1,8 @@
+body { font-family: sans-serif; background: #f0f0f0; padding: 20px; }
+.chat-container { max-width: 600px; margin: 0 auto; background: #fff; padding: 20px; border-radius: 10px; }
+form input { margin: 5px 0; padding: 8px; width: 100%; }
+form button { padding: 8px 12px; margin-top: 5px; }
+.chat-history { margin-top: 20px; }
+.chat { padding: 8px 12px; margin-bottom: 5px; border-radius: 10px; max-width: 90%; }
+.chat.user { background: #cce5ff; text-align: left; }
+.chat.ai { background: #d4edda; text-align: left; }
