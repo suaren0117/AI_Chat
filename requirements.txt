@@ -1,6 +1,6 @@
-Flask
+flask
 pandas
 openai
-python-dotenv
 gspread
 google-auth
+python-dotenv
